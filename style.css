@@ -26,9 +26,7 @@ ul {
 }
 
 .image-circle {
-    border-radius: 100px;
-    width: 200px;
-    height: 200px;
+    border-radius: 80px;
 }
 
 .container {
